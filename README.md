@@ -26,7 +26,7 @@ python mac_cosmetics_scraper.py
 
 The script will:
 1. Check robots.txt to ensure scraping is allowed
-2. Scrape skincare products from MAC Cosmetics website
+2. Scrape skincare products from MAC Cosmetics website (can be any website though!)
 3. Save the data to `output_mac.json`
 
 ## Output Format
