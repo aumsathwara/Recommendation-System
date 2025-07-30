@@ -1,4 +1,4 @@
-# MAC Cosmetics Skincare Products Scraper
+# Skincare Products Scraper
 
 This is an ethical web scraper designed to collect skincare product information from the MAC Cosmetics website.
 
